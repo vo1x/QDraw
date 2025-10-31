@@ -1,0 +1,7 @@
+*.sln.DotSettings.user
+*.suo
+.idea/
+[Bb]in/
+[Oo]bj/
+*.ReSharper.user
+_ReSharper.*/
