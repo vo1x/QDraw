@@ -1,6 +1,6 @@
 public class Token
 {
-    public TokenType Type { get;  }
+    public TokenType Type { get;  } // get only because each token is immutable
     public string Lexeme { get; }
     public object Literal { get; }
     public int Line { get;  }
